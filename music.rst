@@ -15,3 +15,7 @@ Music list:
 - `Thomas Bergersen - Illusions <http://www.amazon.com/Illusions/dp/B005A1ER0I/ref=sr_1_1>`_
 - `Two Steps From Hell - Invicible <http://www.amazon.com/Invincible/dp/B003MOHX8S/ref=sr_1_1>`_
 - `Two Steps From Hell - SkyWorld <http://www.amazon.com/SkyWorld/dp/B009XY97VC/ref=ntt_mus_dp_dpt_2>`_
+
+Radio List:
+
+- `Digitally Imported Radio <http://www.di.fm>`_
