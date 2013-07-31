@@ -1,4 +1,4 @@
 musicforcoding
 ==============
 
-Music for coding
+How about building a list of music suitable for coding ? :)
