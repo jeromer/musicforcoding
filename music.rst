@@ -5,9 +5,9 @@ Music list:
 - `Amaranthe - Amaranthe <http://www.amazon.com/Amaranthe/dp/B005MMYPIE/ref=sr_1_3>`_
 - `Amaranthe - Nexus <http://www.amazon.com/Nexus-Amaranthe/dp/B00B9GCWFU/ref=ntt_mus_ep_dpi_1>`_
 - `The Cinematic Orchestra - The Crimson Wing: Mystery of the Flamingos <http://www.amazon.com/Crimson-Wing-Mystery-Flamingos-Soundtrack/dp/B001QI49RK/ref=sr_1_1>`_
-- `E.S. Posthumus - Cartographer <www.amazon.com/Cartographer-E-S-Posthumus/dp/B0012QJDJ0/ref=sr_1_3>`_
+- `E.S. Posthumus - Cartographer <http://www.amazon.com/Cartographer-E-S-Posthumus/dp/B0012QJDJ0/ref=sr_1_3>`_
 - `Kaoru Kukita - UNPLUGGED Ghibli <http://www.amazon.com/UNPLUGGED-Ghibli-animation-KUKITA-Imported/dp/B00CH8D8Q6/ref=sr_1_cc_1>`_
-- `James Horner - Beautiful Mind <www.amazon.com/Beautiful-Mind-James-Horner/dp/B00005TPFV/ref=sr_1_1>`_
+- `James Horner - Beautiful Mind <http://www.amazon.com/Beautiful-Mind-James-Horner/dp/B00005TPFV/ref=sr_1_1>`_
 - `Joe Hisaishi - Spirited Away <http://www.amazon.com/Spirited-Away-Voyage-Chihiro-Away-Voyage/dp/B00008O895/ref=sr_1_3>`_
 - `Joe Hisaishi - Mononoke Hime <http://www.amazon.com/Princess-Mononoke-Symphonic-Joe-Hisaishi/dp/B00005IC2T/ref=sr_1_2>`_
 - `Joe Hisaishi - Nausicaa of the Valley of Wind <http://www.amazon.com/Nausicaa-Valley-Wind-Hi-Tech-Hisaishi/dp/B0002IJL8W/ref=sr_1_1>`_
