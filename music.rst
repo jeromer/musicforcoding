@@ -15,6 +15,7 @@ Soundtrack
 
 - `The Cinematic Orchestra - The Crimson Wing: Mystery of the Flamingos <http://www.amazon.com/Crimson-Wing-Mystery-Flamingos-Soundtrack/dp/B001QI49RK/ref=sr_1_1>`_
 - `E.S. Posthumus - Cartographer <http://www.amazon.com/Cartographer-E-S-Posthumus/dp/B0012QJDJ0/ref=sr_1_3>`_
+- `E.S. Posthumus - Unearthed <http://www.amazon.com/Unearthed-E-S-Posthumus/dp/B0008191LU/>`_
 - `Kaoru Kukita - UNPLUGGED Ghibli <http://www.amazon.com/UNPLUGGED-Ghibli-animation-KUKITA-Imported/dp/B00CH8D8Q6/ref=sr_1_cc_1>`_
 - `James Horner - Beautiful Mind <http://www.amazon.com/Beautiful-Mind-James-Horner/dp/B00005TPFV/ref=sr_1_1>`_
 - `Joe Hisaishi - Spirited Away <http://www.amazon.com/Spirited-Away-Voyage-Chihiro-Away-Voyage/dp/B00008O895/ref=sr_1_3>`_
