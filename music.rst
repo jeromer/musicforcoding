@@ -26,6 +26,11 @@ Soundtrack
 - `Two Steps From Hell - Invicible <http://www.amazon.com/Invincible/dp/B003MOHX8S/ref=sr_1_1>`_
 - `Two Steps From Hell - SkyWorld <http://www.amazon.com/SkyWorld/dp/B009XY97VC/ref=ntt_mus_dp_dpt_2>`_
 
+Acoustic guitar
+---------------
+
+- `Andy McKee - Joyland <http://www.amazon.com/Joyland-Andy-McKee/dp/B0037ZNRJQ/>_`
+
 Radio List
 ----------
 
