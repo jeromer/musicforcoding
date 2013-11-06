@@ -25,6 +25,8 @@ Soundtrack
 - `Thomas Bergersen - Illusions <http://www.amazon.com/Illusions/dp/B005A1ER0I/ref=sr_1_1>`_
 - `Two Steps From Hell - Invicible <http://www.amazon.com/Invincible/dp/B003MOHX8S/ref=sr_1_1>`_
 - `Two Steps From Hell - SkyWorld <http://www.amazon.com/SkyWorld/dp/B009XY97VC/ref=ntt_mus_dp_dpt_2>`_
+- `Hans Zimmer - Crimson Tide <http://www.amazon.com/Crimson-Tide-Original-Motion-Picture/dp/B000000OEI/>`
+- `Harry Gregson-Williams, Nick Glennie-Smith, Hans Zimmer - The Rock <http://www.amazon.com/Rock-Original-Motion-Picture-Score/dp/B000000OFT/>`
 
 Acoustic guitar
 ---------------
