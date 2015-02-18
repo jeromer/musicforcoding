@@ -4,6 +4,7 @@ Ambient
 -------
 - `Ludovico Einaudi - In A Time Lapse <https://soundcloud.com/ludovicoeinaudi/sets/ludovico-einaudi-in-a-time>`_
 - `VA - Simply Relaxation <http://www.spasounds.com.au/p-456-simply-relaxationbrnew-to-downloadbr4-cds-or-mp3-download.aspx>`_
+- `MixHound Youtube channel <https://www.youtube.com/playlist?list=PLeiII6jxXbCBpUC3B9Sgz6QHBCzqNqQzy>`
 
 Metal
 -----
